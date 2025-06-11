@@ -124,7 +124,7 @@ public class Car
 
     public void Update(float dt)
     {
-        if (rotation >= 360)
+       /* if (rotation >= 360)
         {
             rotation -= 360;
             radians = Math.PI * Math.Ceiling(rotation) / 180;
@@ -135,7 +135,10 @@ public class Car
             rotation += 360;
             radians = Math.PI * Math.Ceiling(rotation) / 180;
         }
-        radians = Math.PI * Math.Ceiling(rotation) / 180;
+        radians = Math.PI * Math.Ceiling(rotation) / 180;*/
+       
+       rotation = (rotation + 360) % 360;
+       radians = Math.PI * rotation / 180.0;
 
         if (IsKeyDown(KeyboardKey.Right))
         {
