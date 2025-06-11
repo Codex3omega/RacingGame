@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "Iakdg6DJDc8=",
+  "success": true,
+  "projectFilePath": "D:\\CarGame\\CarGame\\CarGame\\CarGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\imgui.net\\1.91.6.1\\imgui.net.1.91.6.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\mathnet.numerics\\6.0.0-beta2\\mathnet.numerics.6.0.0-beta2.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\raylib-cs\\7.0.1\\raylib-cs.7.0.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\rlimgui-cs\\3.2.0\\rlimgui-cs.3.2.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\vectormath\\1.0.3\\vectormath.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
